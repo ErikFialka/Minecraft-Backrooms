@@ -15,7 +15,7 @@
  "absolute": -34
 }
   },
-  "start_pool": "backrooms:dungen_start",
+  "start_pool": "backrooms:dungen_component_list",
   "step": "underground_decoration",
   "terrain_adaptation": "bury",
   "use_expansion_hack": false
